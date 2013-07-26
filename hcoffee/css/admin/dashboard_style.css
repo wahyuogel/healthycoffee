@@ -1,0 +1,322 @@
+@charset "utf-8";
+/* CSS Document */
+
+body
+{
+	margin:0;
+	padding:0;
+	font-family:"Droid Sans", "Myriad Pro";
+	background:url(shattered.png) top left repeat;
+}
+
+
+
+#menu-header
+{
+	width:700px;
+	height:30px;
+	margin-left:550px;
+	
+}
+
+#menu-header ul
+{
+	list-style:none;
+	display:block;
+}
+
+#menu-header ul li
+{
+	float:left;
+	margin:-30px 10px 10px 20px;
+}
+
+#menu-header ul li a
+{
+	color:#FFF;
+	text-decoration:none;
+	font-size:18px;
+}
+
+#menu-header ul li a:hover
+{
+	text-decoration:underline;
+
+}
+
+
+
+#header_box
+{
+	width:100%;
+	height:80px;
+	background-color:#87aa00;
+}
+
+#sidebar_box
+{
+	width:180px;
+	height:400px;
+	background-color:#333333;
+	margin:40px 0px 0px 20px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	float:left;
+	position:fixed;
+}
+
+#sidebar_box ul
+{
+	color:#FFFFFF;
+	list-style-type:none;
+	padding-top:12px;
+	padding-left:50px;
+}
+
+#sidebar_box ul li
+{
+	margin-bottom:15px;
+	font-size:18px;
+	position:relative;
+}
+
+#sidebar_box a:link,#content_box a:link
+{
+	color:#999;
+	text-decoration:none;
+	outline:none;
+}
+
+#sidebar_box a:visited,#content_box a:visited
+{
+	color:#999;
+}
+
+#sidebar_box a:hover,#content_box a:hover
+{
+	color:#FFCC00;
+}
+
+#sidebar_box a:active,#content_box a:active
+{
+	color:#FFCC00;
+}
+
+hr
+{
+	margin-top:15px;
+	margin-left:0px;
+}
+
+.table_header 
+{
+	border:1px solid #FFFFFF;
+	background-color:#333333;
+	-moz-border-radius:12px;
+	-webkit-border-radius:12px;
+	border-radius:12px;
+}
+
+.table_content td:first-child
+{
+	-moz-border-radius-bottomleft:10px;
+	-webkit-border-radius-bottomleft:10px;
+	border-radius-bottomleft:10px;
+}
+
+.table_content td:last-child
+{
+	-moz-border-radius-bottomright:10px;
+	-webkit-border-radius-bottomright:10px;
+	border-radius-bottomright:10px;
+}
+
+.table_content td
+{
+	border-right:1px solid #000000;
+	border-top:1px solid #000000;
+	background-color:#000000;
+	font-size:16px;
+	color:#FFFFFF;
+	padding-left:10px;
+}
+
+.table_design
+{
+	width:40em;
+	background-color:#333333;
+	padding:10px;
+	-moz-border-radius:10px;
+	-webkit-border-radius:10px;
+	border-radius:10px;
+	font-size:18px;
+	margin-bottom:5.8em;;
+	border:1px solid #CCCCCC;
+	box-shadow:0px 0px 5px #FFF;
+}
+
+.form_box
+{
+	height:25px;
+	font-size:20px;
+	padding-left:3px;
+	font-family:"Droid Sans", "Myriad Pro";
+	-moz-border-radius:5px;
+	-webkit-border-radius:5px;
+	border-radius:5px;
+}
+
+select.form_box
+{
+	height:35px;
+	-moz-border-radius:8px;
+	-webkit-border-radius:8px;
+	border-radius:8px;
+	font-size:18px;
+	border:2px solid #999;
+	font-family:"Droid Sans";
+	padding-left:0px;
+	padding-top:2px;
+}
+
+.textarea_box
+{
+	margin-top:10px;
+	-moz-border-radius:10px;
+	padding:5px;
+	font-size:18px;
+	resize:none;
+	font-family:'Droid Sans', 'Myriad Pro';
+}
+
+#content_box
+{
+	float:left;
+	position:absolute;
+	top:165px;
+	left:260px;
+}
+
+#footer_box
+{
+	width:100%;
+	height:35px;
+	background:#FFFFFF;
+	color:#000;
+	font-size:14px;
+	position:fixed;
+	bottom:0em;
+	opacity:1;
+}
+
+.flash_message
+{
+	background-color:#333333;
+	-moz-border-radius-topleft:20px;
+	-webkit-border-radius-topleft:20px;
+	border-radius-topleft:20px;
+	-moz-border-radius-bottomleft:20px;
+	-webkit-border-radius-bottomleft:20px;
+	border-radius-bottomleft:20px;
+	color:#00FF00;
+	position:absolute;
+	top:-1.4em;
+	right:-21.5em;
+	padding:10px;
+	font-size:18px;	
+}
+
+#file_input_div
+{
+	position:relative;
+	width:100px;
+	height:30px;
+	overflow:hidden;
+	top:0.3em;
+	left:-9em;
+}
+
+.file_input_button
+{
+	font-family:'Droid Sans', 'Myriad Pro';
+	width:100px;
+	height:30px;
+	font-size:18px;
+	padding:2px;
+	position:absolute;
+	top:0px;
+	background: -moz-linear-gradient(top, #FFF , #CCCCCC 50%);
+	border:1px solid #999999;
+	-moz-border-radius:30px;
+}
+
+.file_input_hidden
+{
+	font-size:23px;
+	position:absolute;
+	right:0px;
+	top:0px;
+	opacity:0;
+}
+
+.button_style
+{
+	font-family:'Droid Sans', 'Myriad Pro';
+	width:100px;
+	height:30px;
+	font-size:18px;
+	padding:2px;
+	border:1px solid #000000;
+	background-color:#FFFFFF;
+	-moz-border-radius:10px;
+	margin-top:30px;
+}
+
+.button_style:hover, .file_input_hidden:hover
+{
+	cursor:pointer;
+}
+
+input[type="submit"]::-moz-focus-inner, button::-moz-focus-inner
+{
+    border:0;
+}
+
+input[type="submit"]:active, button:active
+{
+	border:0;
+}
+
+.preview_style
+{
+	width:120px;
+	height:135px;
+	border:1px solid #FFFFFF;
+	-moz-border-radius:15px;
+}
+
+h2
+{
+	font-family:"Droid Sans", "Myriad Pro";
+	font-weight:lighter;
+	font-size:22px;
+}
+
+.header_style
+{
+	font-size:23px;
+	color:#FFFFFF;
+	margin-bottom:10px;
+}
+
+select:focus
+{
+	outline:3px solid white;
+	outline-offset:-7px;
+}
+
+select option
+{
+	-moz-border-radius:5px;
+}

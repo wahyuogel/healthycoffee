@@ -1,0 +1,34 @@
+{
+    "statistic": [
+			{ 
+			  "dis":"Karat Daun Kopi" , 
+			  "val":"1" 
+			}, 
+			{ 
+			  "dis":"Bercak Daun Kopi" ,
+			  "val":"2" 
+			}, 
+			{ 
+			  "dis":"Nematoda", 
+			  "val":"3" 
+			},
+			{ 
+			  "dis":"Jamur Upas" , 
+			  "val":"4" 
+			}, 
+			{ 
+			  "dis":"Jamur Akar Hitam", 
+			  "val":"5" 
+			},
+			{ 
+			  "dis":"Jamur Akar Coklat", 
+			  "val":"6" 
+			},
+			{ 
+			  "dis":"Jamur Akar Putih", 
+			  "val":"7" 
+			}
+
+
+	]
+}

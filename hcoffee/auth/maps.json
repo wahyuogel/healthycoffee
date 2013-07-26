@@ -1,0 +1,39 @@
+{
+    "maps": [
+        {
+                "id": "1",
+                "name": "Wahyu",
+                "diseases": "Penyakit Karat Daun",
+                "date": "2012-10-24",
+                "lat" : "-6.2532592788520005",
+                "long": "106.853239291777"
+        },
+        {
+                "id": "2",
+                "name": "Yasin",
+                "diseases": "Penyakit Karat Daun",
+                "date": "2012-10-25",
+                "lat" : "-6.2432592788520005",
+                "long": "106.853239291777"
+        },
+        {
+                "id": "3",
+                "name": "Miranty",
+                "diseases": "Penyakit Karat Daun",
+                "date": "2012-10-26",
+                "lat" : "-6.2332592788520005",
+                "long": "106.853239291777"
+        
+        },
+		{
+                "id": "4",
+                "name": "Dodo",
+                "diseases": "Penyakit Bercak Daun",
+                "date": "2012-10-26",
+                "lat" : "-6.2232592788520005",
+                "long": "106.853239291777"
+        
+        }
+
+    ]
+}

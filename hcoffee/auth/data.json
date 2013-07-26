@@ -1,0 +1,43 @@
+{
+    "contacts": [
+        {
+                "id": "c200",
+                "name": "Karat daun kopi",
+                "email": "Hemileia vastatrix",
+                "address": "COFFEE LEAF RUST",
+                "gender" : "miranty@gmail.com",
+                "phone": {
+                    "mobile": "Penyakit karat daun kopi disebabka oleh H. vastatrix yang dapat menyerang dipembibitan sampai tanaman dewasa\n Gejala tanaman terserang, daun yang sakit timbul bercak kuning kemudian berubah menjadi coklat.\n Permukaan bercak pada sisi bawah daun terdapat uredospora seperti tepung berwarna oranye atau jingga. \n Pada serangan berat pohon tampak kekuningan, daunnya gugur akhirnya pohon menjadi gundul",
+                    "home": "Penyakit karat daun kopi disebabka oleh H. vastatrix yang dapat menyerang dipembibitan sampai tanaman dewasa\n Gejala tanaman terserang, daun yang sakit timbul bercak kuning kemudian berubah menjadi coklat.\n Permukaan bercak pada sisi bawah daun terdapat uredospora seperti tepung berwarna oranye atau jingga. \n Pada serangan berat pohon tampak kekuningan, daunnya gugur akhirnya pohon menjadi gundul",
+                    "office": "Penyakit karat daun kopi disebabka oleh H. vastatrix yang dapat menyerang dipembibitan sampai tanaman dewasa\n Gejala tanaman terserang, daun yang sakit timbul bercak kuning kemudian berubah menjadi coklat.\n Permukaan bercak pada sisi bawah daun terdapat uredospora seperti tepung berwarna oranye atau jingga. \n Pada serangan berat pohon tampak kekuningan, daunnya gugur akhirnya pohon menjadi gundul"
+					
+                }
+        },
+        {
+                "id": "c201",
+                "name": "Bercak daun kopi",
+                "email": "Mycosphaerella coffeicola",
+                "address": "BROWN EYE SPOT OF COFFEE",
+                "gender" : "miranty@gmail.com",
+                "phone": {
+                    "mobile": "Penyakit ini disebabkan oleh jamur C. coffeicola  yang dapat muncul di pembibitan sampai tanaman dewasa serta menyerang buah kopi. Daun yang sakit timbul bercak berwarna kuning yang tepinya dikelilingi halo (lingkaran) berwarna kuning. \n Buah yang terserang timbul bercak berwarna coklat, biasanya pada sisi yang lebih banyak menerima cahaya matahari. Bercak ini membusuk dan dapat sampai ke biji sehingga menurunkan kualitas.",
+                    "home": "Penyakit ini disebabkan oleh jamur C. coffeicola  yang dapat muncul di pembibitan sampai tanaman dewasa serta menyerang buah kopi. Daun yang sakit timbul bercak berwarna kuning yang tepinya dikelilingi halo (lingkaran) berwarna kuning. \n Buah yang terserang timbul bercak berwarna coklat, biasanya pada sisi yang lebih banyak menerima cahaya matahari. Bercak ini membusuk dan dapat sampai ke biji sehingga menurunkan kualitas.",
+                    "office": "Penyakit ini disebabkan oleh jamur C. coffeicola  yang dapat muncul di pembibitan sampai tanaman dewasa serta menyerang buah kopi. Daun yang sakit timbul bercak berwarna kuning yang tepinya dikelilingi halo (lingkaran) berwarna kuning. \n Buah yang terserang timbul bercak berwarna coklat, biasanya pada sisi yang lebih banyak menerima cahaya matahari. Bercak ini membusuk dan dapat sampai ke biji sehingga menurunkan kualitas."
+				
+                }
+        },
+        {
+                "id": "c202",
+                "name": "Jamur Upas",
+                "email": "Corticium salmonicolor",
+                "address": "PINK DISEASES",
+                "gender" : "miranty@gmail.com",
+                "phone": {
+                    "mobile": "Jamur C. salmonicolor dapat menyerang batang, cabang, ranting dan buah kopi. Infeksi jamur ini pertama kali terjadi pada sisi bagian bawah cabang ataupun ranting. Serangan dimulai dengan adanya benang-benang jamur tipis seperti sutera, berbentuk sarang labalaba. Selanjutnya pada bagian tersebut terjadi nekrosis kemudian membusuk sehingga warnanya menjadi coklat tua atau hitam.",
+                    "home": "Jamur C. salmonicolor dapat menyerang batang, cabang, ranting dan buah kopi. Infeksi jamur ini pertama kali terjadi pada sisi bagian bawah cabang ataupun ranting. Serangan dimulai dengan adanya benang-benang jamur tipis seperti sutera, berbentuk sarang labalaba. Selanjutnya pada bagian tersebut terjadi nekrosis kemudian membusuk sehingga warnanya menjadi coklat tua atau hitam.",
+                    "office": "Jamur C. salmonicolor dapat menyerang batang, cabang, ranting dan buah kopi. Infeksi jamur ini pertama kali terjadi pada sisi bagian bawah cabang ataupun ranting. Serangan dimulai dengan adanya benang-benang jamur tipis seperti sutera, berbentuk sarang labalaba. Selanjutnya pada bagian tersebut terjadi nekrosis kemudian membusuk sehingga warnanya menjadi coklat tua atau hitam."
+                }
+        
+        }
+    ]
+}

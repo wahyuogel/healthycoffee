@@ -1,0 +1,81 @@
+{ 
+"contacts" : [
+		{
+				"id" : "1",
+				"name" : "Karat Daun Kopi",
+				"email" : "Hemileia vastatrix",
+				"address" : "Karat Daun Kopi",
+				"gender" : "miranty@gmail.com"
+				"phone": {
+						"mobile" : "Penyakit karat daun kopi disebabkan oleh H. vastatrix yang dapat menyerang dipembibitan sampai tanaman dewasa. Gejala tanaman terserang, daun yang sakit timbul bercak kuning kemudian berubah menjadi coklat (lihat gambar). Permukaan bercak pada sisi bawah daun terdapat uredospora seperti tepung berwarna oranye atau jingga. Pada serangan berat pohon tampak kekuningan, daunnya gugur akhirnya pohon menjadi gundul.",
+						"home" : "Pengendalian penyakit dengan memperkuat kebugaran tanaman melalui pemupukan berimbang, pemangkasan dan pengaturan naungan untuk mengurangi kelembaban kebun dan memberikan sinar matahari yang cukup pada tanaman. Penanaman varietas kopi yang tahan atau toleran merupakan cara yang perlu diperhatikan, seperti: S 795, S 1934, USDA 62, Kartika 1 dan 2."
+				} 
+		},
+		{
+				"id" : "2",
+				"name" : "Bercak Daun Kopi",
+				"email" : "Mycosphaerella coffeicola",
+				"address" : "Bercak Daun Kopi",
+				"gender" : "miranty@gmail.com"
+				"phone": {
+						"mobile" : "Penyakit ini disebabkan oleh jamur C. coffeicola yang dapat muncul di pembibitan sampai tanaman dewasa serta menyerang buah kopi. Daun yang sakit timbul bercak berwarna kuning yang tepinya dikelilingi halo (lingkaran) berwarna kuning. Buah yang terserang timbul bercak berwarna coklat, biasanya pada sisi yang lebih banyak menerima cahaya matahari. Bercak ini membusuk dan dapat sampai ke biji sehingga menurunkan kualitas.",
+						"home" : "Pengendalian penyakit dengan sanitasi kebun dan membuang bagian-bagian yang sakit, kemudian membenamkannya di dalam tanah. Mengurangi kelembaban kebun dengan pemangkasan, pengaturan naungan dan membuat parit drainase. Melakukan pemupukan dan hindari penggunaan bibit yang telah terserang penyakit ini."
+				} 
+		},
+		{
+				"id" : "6",
+				"name" : "Jamur Akar Coklat",
+				"email" : "Phellinus noxius",
+				"address" : "Jamur Akar Coklat",
+				"gender" : "miranty@gmail.com"
+				"phone": {
+					"mobile" : "Gejala tanaman terserang warna daun hijau kekuningan, kusam, layu dan menggantung. Seluruh daun menguning kemudian layu secara serempak, akhirnya mengering di cabang.nGejala khas jamur akar coklat, terutama akar tunggang tertutup oleh kerak yang terdiri dari butir-butir tanah yang melekat kuat. Diantara butir-butir tanah tampak adanya anyaman benang jamur coklat kehitaman. kayu akar yang sakit membusuk, kering dan lunak.",
+					"home" : "Membongkar pohon terserang sampai keakarnya, lalu membakar. Lubang bekas bongkaran dibiarkan terbuka selama + 1 tahun. Pohon sehat disekitar pohon sakit dan pohon-pohon sisipan ditaburi Trichoderma 200 gr/pohon dan pupuk kandang/pupuk organik. Diulang setiap 6 bulan sampai areal tersebut bebas dari jamur akar."
+		} 
+		},
+		{
+				"id" : "4",
+				"name" : "Nematoda",
+				"email" : "Pratylenchus coffeae",
+				"address" : "Nematoda",
+				"gender" : "miranty@gmail.com"
+				"phone": {
+						"mobile" : "Pratylenchus coffeae dan Radopholus similis adalah jenis nematoda endoparasit yang berpindah-pindah. Daur hidup P. coffeae sekitar 45 hari dan R. similis 1 bulan.nTanaman kopi yang terserang kelihatan kerdil, daun menguning dan gugur. Pertumbuhan cabang-cabang primer terhambat sehingga menghasilkan sedikit bunga, buah prematur dan banyak yang kosong. Bagian akar serabut membusuk dan putus sehingga habis. Pada serangan berat tanaman akhirnya mati.",
+						"home" : "Pengendalian dilakukan dengan memberikan pupuk kandang 12 kg/ pohon/tahun. Membongkar pohon kopi yang terserang berat. Untuk mencegah penularannya perlu dibuat parit isolasi disekeliling tanaman sakit (dalam 40 cm dan lebar 30 cm) pada jarak 60 cm dari pangkal akar. Menanam jenis kopi yang tahan untuk digunakan sebagai batang bawah, misalnya: kopi ekselsa, kopi robusta klon BP 961. Akar kopi yang diserang nematoda (kanan) dan yang masih sehat (kiri) Bulu akar hilang akibat serangan nematoda"
+		} 
+		},
+{
+"id" : "5",
+"name" : "Jamur Upas",
+"email" : "Corticium salmonicolor",
+"address" : "Jamur Upas",
+"gender" : "miranty@gmail.com"
+"phone": {
+"mobile" : "Jamur C. salmonicolor dapat menyerang batang, cabang, ranting dan buah kopi. Infeksi jamur ini pertama kali terjadi pada sisi bagian bawah cabang ataupun ranting. Serangan dimulai dengan adanya benang-benang jamur tipis seperti sutera, berbentuk sarang laba- laba. Selanjutnya pada bagian tersebut terjadi nekrosis kemudian membusuk sehingga warnanya menjadi coklat tua atau hitam.nNekrosis pada buah bermula dari pangkal buah disekitar tangkai, kemudian meluas keseluruh permukaan dan mencapai endosperma.",
+"home" : "Batang dan cabang sakit dipotong sampai 10 cm di bawah pangkal dari bagian yang sakit. Potongan- potongan ini dikumpulkan kemudian di bakar. Memetik buah-buah yang sakit, dikumpulkan dan dibakar atau dipendam. Pemangkasan pohon pelindung untuk mengurangi kelembaban kebun sehingga sinar matahari dapat masuk ke areal pertanaman kopi. Jamur upas pada buah kopi"
+} 
+},
+{
+"id" : "7",
+"name" : "Jamur Akar Hitam",
+"email" : "Rosellinia bunodes",
+"address" : "Jamur Akar Hitam",
+"gender" : "miranty@gmail.com"
+"phone": {
+"mobile" : "Gejala tanaman terserang warna daun hijau kekuningan, kusam, layu dan menggantung. Seluruh daun menguning kemudian layu secara serempak, akhirnya mengering di cabang.Gejala khas jamur akar hitam, pada pangkal batang dan permukaan kayu akar terdapat titik-titik hitam",
+"home" : "Membongkar pohon terserang sampai keakarnya, lalu membakar. Lubang bekas bongkaran dibiarkan terbuka selama + 1 tahun. Pohon sehat disekitar pohon sakit dan pohon-pohon sisipan ditaburi Trichoderma 200 gr/pohon dan pupuk kandang/pupuk organik. Diulang setiap 6 bulan sampai areal tersebut bebas dari jamur akar."
+} 
+},
+{
+"id" : "8",
+"name" : "Jamur Akar Putih",
+"email" : "Rigidoporus microporus",
+"address" : "Jamur Akar Putih",
+"gender" : "miranty@gmail.com"
+"phone": {
+"mobile" : "Gejala tanaman terserang warna daun hijau kekuningan, kusam, layu dan menggantung. Seluruh daun menguning kemudian layu secara serempak, akhirnya mengering di cabang.namur akar putih pada permukaan akar terdapat benang jamur berwarna putih menjalar sepanjang akar dan pada ujungnya meluas seperti bulu. Penyebaran dan perkembangan penyakit lebih cepat pada tanah berpasir dan lembab.",
+"home" : "Membongkar pohon terserang sampai keakarnya, lalu membakar. Lubang bekas bongkaran dibiarkan terbuka selama + 1 tahun. Pohon sehat disekitar pohon sakit dan pohon-pohon sisipan ditaburi Trichoderma 200 gr/pohon dan pupuk kandang/pupuk organik. Diulang setiap 6 bulan sampai areal tersebut bebas dari jamur akar."
+} 
+}
+] 
+}
