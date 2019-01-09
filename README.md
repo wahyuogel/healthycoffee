@@ -2,7 +2,10 @@
 [Expert System in Detecting Coffee Plant Diseases](http://www.ijoee.org/uploadfile/2013/0912/20130912054445556.pdf)
 publication date :Sep 22, 2013 International Journal of Electrical Energy
 
-publication descriptionCoffee is an important commodity in the world economy. But unfortunately, productivity and quality of those commodities results are still quite low. This is caused by the disease in coffee plants. 
+[![Healthy Coffee Web](http://img.youtube.com/vi/oeSwakkjHHk/0.jpg)](http://www.youtube.com/watch?v=oeSwakkjHHk)
+
+
+Coffee is an important commodity in the world economy. But unfortunately, productivity and quality of those commodities results are still quite low. This is caused by the disease in coffee plants. 
 
 The research objective is to create an application that can help researchers or observers working in coffee plantation to diagnose diseases of coffee plants. 
 
