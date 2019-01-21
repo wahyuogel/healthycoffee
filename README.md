@@ -1,4 +1,4 @@
-# Healthy Coffee
+# Healthy Coffee ☕
 [Expert System in Detecting Coffee Plant Diseases](http://www.ijoee.org/uploadfile/2013/0912/20130912054445556.pdf)
 publication date :Sep 22, 2013 International Journal of Electrical Energy
 
